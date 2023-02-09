@@ -15,12 +15,12 @@ The interface simulates the operation of a calculator where you can perform addi
 The calculator works initially by entering the first number then you can choose any of the options available in the menu, integers (int) and decimals (float) are handled, the validation of division is different from 0 and the final result will only be displayed when entering "=".
 
 ## 🔭 Execution 
-![1](https://user-images.githubusercontent.com/117414953/217946495-59d01bb8-ee46-4170-a81b-45bf3f6c1a38.jpg)</br>
-![2](https://user-images.githubusercontent.com/117414953/217946535-886fa166-0b93-4f59-bfb0-c07b010d8215.jpg)</br>
-![3](https://user-images.githubusercontent.com/117414953/217946560-6b376060-ef4b-4eeb-ba6c-38ecdaed400b.jpg)</br>
-![4](https://user-images.githubusercontent.com/117414953/217946566-82afe81e-b19a-4df7-ae24-c01f3df1da7d.jpg)</br>
-![5](https://user-images.githubusercontent.com/117414953/217946614-7488d70c-9345-45b7-a9d7-4169869ef52e.jpg)</br>
 
+![1](https://user-images.githubusercontent.com/117414953/217949937-e7033ec6-6d9e-4515-8805-80ff8b2256e1.jpg)</br>
+![2](https://user-images.githubusercontent.com/117414953/217949949-9b2c1a81-87c5-449e-81ef-40d1c9b0ab2f.jpg)</br>
+![3](https://user-images.githubusercontent.com/117414953/217949955-1599d166-6005-47b7-9a6a-6a4c6cda3c47.jpg)</br>
+![4](https://user-images.githubusercontent.com/117414953/217949998-127bf8a2-01fc-4fe1-abac-f20a0b5f07ee.jpg)</br>
+![5](https://user-images.githubusercontent.com/117414953/217950021-3aad1529-71e0-4b76-9d4b-e8b441a28fdf.jpg)</br>
 
 <br>
 <div align="center">
