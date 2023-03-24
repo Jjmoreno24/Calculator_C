@@ -1,20 +1,20 @@
 [![KRmj-Mz6-Qa-Um-P-1584-396.png](https://i.postimg.cc/HkXSSH13/KRmj-Mz6-Qa-Um-P-1584-396.png)](https://postimg.cc/Yv2f959m)
 
-<h1>Chess Game</h1>
+<h1>Calculadora</h1>
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-## Development
-- Use of functions, validations 
+## Desarrollo
+- Uso de funciones, validaciones 
 - POO
-- structured programming.
+- Programación estructurada.
 
-## Operation 
-The interface simulates the operation of a calculator where you can perform addition, subtraction, multiplication and division operations. 
-The calculator works initially by entering the first number then you can choose any of the options available in the menu, integers (int) and decimals (float) are handled, the validation of division is different from 0 and the final result will only be displayed when entering "=".
+## Operación 
+La interfaz simula el funcionamiento de una calculadora donde se pueden realizar operaciones de suma, resta, multiplicación y división. 
+La calculadora funciona inicialmente introduciendo el primer número luego se puede elegir cualquiera de las opciones disponibles en el menú, se manejan números enteros (int) y decimales (float), la validación de la división es diferente de 0 y el resultado final sólo se mostrará al introducir "=".
 
-## 🔭 Execution 
+## 🔭 Ejecución 
 
 ![1](https://user-images.githubusercontent.com/117414953/217949937-e7033ec6-6d9e-4515-8805-80ff8b2256e1.jpg)</br>
 ![2](https://user-images.githubusercontent.com/117414953/217949949-9b2c1a81-87c5-449e-81ef-40d1c9b0ab2f.jpg)</br>
